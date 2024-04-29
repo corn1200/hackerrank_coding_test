@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hackerrank_coding_test", "hackerrank_coding_test\hackerrank_coding_test.csproj", "{BED9CEE1-0AB2-44E9-AF12-93EA77CB3B64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BED9CEE1-0AB2-44E9-AF12-93EA77CB3B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED9CEE1-0AB2-44E9-AF12-93EA77CB3B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED9CEE1-0AB2-44E9-AF12-93EA77CB3B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED9CEE1-0AB2-44E9-AF12-93EA77CB3B64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
